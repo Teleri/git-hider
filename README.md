@@ -87,4 +87,4 @@ To unhide files, it uses `update-index --no-skip-worktree` to resume normal Git 
 
 ## License
 
-[MIT License](LICENSE)
+[Unlicense](LICENSE)
